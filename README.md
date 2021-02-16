@@ -38,11 +38,11 @@ def my function(a,b):
 <br>
 
 # tables
-----------
+-------
 
 
-s.no |name |rollno
-----|----|--------
-1 | manvi |10
-2 | suma  | 2
-3 | mohan |3
+number | name |
+--------|------|
+1|abc
+2|cd
+3|efg
