@@ -18,10 +18,15 @@ this a paragraph in mark down...<br>this is  a github
 2. eee
 
 # images
-![apssdc](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.apssdc.in%2F&psig=AOvVaw0SiULixxqji30DC7wmrW__&ust=1613543736103000&source=images&cd=vfe&ved=0CAMQjB1qFwoTCLiV5fvk7e4CFQAAAAAdAAAAABAK)
+![APSSDC](https://www.apssdc.in/home/images/apssdc_final.png)
+
+<img src="https://www.apssdc.in/home/images/apssdc_final.png" height=50 width=50 >
+
 # links
 ---------
 [SACET](http://www.sacet.ac.in/)
+
+
 # mcq
 - [ ] gitinit
 - [ ] gitbash
@@ -33,7 +38,7 @@ this a paragraph in mark down...<br>this is  a github
 
 print("this is print function python")
 def my function(a,b):
-----------
+```````````
 
 <br>
 
@@ -41,8 +46,8 @@ def my function(a,b):
 -------
 
 
-number | name |
---------|------|
-1|abc
-2|cd
-3|efg
+number | name
+--------| -----|
+1 | abc
+2 | abcd
+
